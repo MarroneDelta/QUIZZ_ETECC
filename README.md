@@ -1,4 +1,4 @@
-# aula_02
+# QUIZZ_ETECC_ESTUDOS
 
 A new Flutter project.
 
